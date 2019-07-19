@@ -1,0 +1,125 @@
+import { Token } from '@phosphor/coreutils';
+import { Message } from '@phosphor/messaging';
+import { ISignal } from '@phosphor/signaling';
+import { IClientSession, Printing } from '@jupyterlab/apputils';
+import { DocumentWidget } from '@jupyterlab/docregistry';
+import { INotebookModel } from './model';
+import { Notebook, StaticNotebook } from './widget';
+/**
+ * A widget that hosts a notebook toolbar and content area.
+ *
+ * #### Notes
+ * The widget keeps the document metadata in sync with the current
+ * kernel on the context.
+ */
+export declare class NotebookPanel extends DocumentWidget<Notebook, INotebookModel> {
+    /**
+     * Construct a new notebook panel.
+     */
+    constructor(options: DocumentWidget.IOptions<Notebook, INotebookModel>);
+    /**
+     * A signal emitted when the panel has been activated.
+     */
+    readonly activated: ISignal<this, void>;
+    /**
+     * The client session used by the panel.
+     */
+    readonly session: IClientSession;
+    /**
+     * The notebook used by the widget.
+     */
+    readonly content: Notebook;
+    /**
+     * The model for the widget.
+     */
+    readonly model: INotebookModel;
+    /**
+     * Update the options for the current notebook panel.
+     *
+     * @param config new options to set
+     */
+    setConfig(config: NotebookPanel.IConfig): void;
+    /**
+     * Set URI fragment identifier.
+     */
+    setFragment(fragment: string): void;
+    /**
+     * Dispose of the resources used by the widget.
+     */
+    dispose(): void;
+    /**
+     * Handle `'activate-request'` messages.
+     */
+    protected onActivateRequest(msg: Message): void;
+    /**
+     * Prints the notebook by converting to HTML with nbconvert.
+     */
+    [Printing.symbol](): () => Promise<void>;
+    /**
+     * Handle a change in the kernel by updating the document metadata.
+     */
+    private _onKernelChanged;
+    private _onSessionStatusChanged;
+    /**
+     * Update the kernel language.
+     */
+    private _updateLanguage;
+    /**
+     * Update the kernel spec.
+     */
+    private _updateSpec;
+    private _activated;
+    /**
+     * Whether we are currently in a series of autorestarts we have already
+     * notified the user about.
+     */
+    private _autorestarting;
+}
+/**
+ * A namespace for `NotebookPanel` statics.
+ */
+export declare namespace NotebookPanel {
+    /**
+     * Notebook config interface for NotebookPanel
+     */
+    interface IConfig {
+        /**
+         * A config object for cell editors
+         */
+        editorConfig: StaticNotebook.IEditorConfig;
+        /**
+         * A config object for notebook widget
+         */
+        notebookConfig: StaticNotebook.INotebookConfig;
+        /**
+         * Whether to shut down the kernel when closing the panel or not
+         */
+        kernelShutdown: boolean;
+    }
+    /**
+     * A content factory interface for NotebookPanel.
+     */
+    interface IContentFactory extends Notebook.IContentFactory {
+        /**
+         * Create a new content area for the panel.
+         */
+        createNotebook(options: Notebook.IOptions): Notebook;
+    }
+    /**
+     * The default implementation of an `IContentFactory`.
+     */
+    class ContentFactory extends Notebook.ContentFactory implements IContentFactory {
+        /**
+         * Create a new content area for the panel.
+         */
+        createNotebook(options: Notebook.IOptions): Notebook;
+    }
+    /**
+     * Default content factory for the notebook panel.
+     */
+    const defaultContentFactory: ContentFactory;
+    /**
+     * The notebook renderer token.
+     */
+    const IContentFactory: Token<IContentFactory>;
+}

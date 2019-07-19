@@ -1,0 +1,35 @@
+// Copyright (c) Jupyter Development Team.
+// Distributed under the terms of the Modified BSD License.
+import { ArrayExt } from '@phosphor/algorithm';
+import { ElementExt } from '@phosphor/domutils';
+import { UUID } from '@phosphor/coreutils';
+/**
+ * The namespace for DOM utilities.
+ */
+export var DOMUtils;
+(function (DOMUtils) {
+    /**
+     * Get the index of the node at a client position, or `-1`.
+     */
+    function hitTestNodes(nodes, x, y) {
+        return ArrayExt.findFirstIndex(nodes, node => {
+            return ElementExt.hitTest(node, x, y);
+        });
+    }
+    DOMUtils.hitTestNodes = hitTestNodes;
+    /**
+     * Find the first element matching a class name.
+     */
+    function findElement(parent, className) {
+        return parent.querySelector(`.${className}`);
+    }
+    DOMUtils.findElement = findElement;
+    /**
+     * Create a DOM id with prefix "id-" to solve bug for UUIDs beginning with numbers.
+     */
+    function createDomID() {
+        return `id-${UUID.uuid4()}`;
+    }
+    DOMUtils.createDomID = createDomID;
+})(DOMUtils || (DOMUtils = {}));
+//# sourceMappingURL=domutils.js.map

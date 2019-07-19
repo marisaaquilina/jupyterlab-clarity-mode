@@ -729,9 +729,205 @@
         "version": "2a5d64da2fa9e998e60a501ad19bac2a0cb2a671efa15f5c87f8725fbf4178ea",
         "signature": "2a5d64da2fa9e998e60a501ad19bac2a0cb2a671efa15f5c87f8725fbf4178ea"
       },
-      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.ts": {
-        "version": "fb7f1d9282b9fafa04e6db78d896702145458f2175d1b69de00370facd24153d",
-        "signature": "28e7e3b6ebe0e9d0a4827f60bc9057b5168882b3229ba978ec704fc830a76617"
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts": {
+        "version": "ea826b2688767a711e9df7cd7544d7cd30c7078df8ab088ef15cbb0494f2c61d",
+        "signature": "ea826b2688767a711e9df7cd7544d7cd30c7078df8ab088ef15cbb0494f2c61d"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts": {
+        "version": "e99d6c47524125ad9db0edbc3f82cdc6b9e9f13d8be569c4b993bc08709ca106",
+        "signature": "e99d6c47524125ad9db0edbc3f82cdc6b9e9f13d8be569c4b993bc08709ca106"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts": {
+        "version": "b353faf7fe95e13d63bc5a2e6aa5b5d1f76a3bb01812f1718317a2c481df34f3",
+        "signature": "b353faf7fe95e13d63bc5a2e6aa5b5d1f76a3bb01812f1718317a2c481df34f3"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts": {
+        "version": "f2535a01907d8162ab7a6f7f6135c540a7effcbc48ab6f12859cccdbfe26748b",
+        "signature": "f2535a01907d8162ab7a6f7f6135c540a7effcbc48ab6f12859cccdbfe26748b"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts": {
+        "version": "14272cf5e560df638409e768e655862b5b9524ecd34a3f6a6ea5f7854af76bb0",
+        "signature": "14272cf5e560df638409e768e655862b5b9524ecd34a3f6a6ea5f7854af76bb0"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts": {
+        "version": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3",
+        "signature": "57191ebd5f6e04ee890df9f370761972c84013e5393fb08663dd8b61b347e9e3"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts": {
+        "version": "e29b5eb559a057d36584ec480d49711f0c81bed176bb6256df584e800c453760",
+        "signature": "e29b5eb559a057d36584ec480d49711f0c81bed176bb6256df584e800c453760"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts": {
+        "version": "5ea889d05c5209e0e2473d0deb116e903d20e1c4fab37802b37fef23360a696c",
+        "signature": "5ea889d05c5209e0e2473d0deb116e903d20e1c4fab37802b37fef23360a696c"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/model.d.ts": {
+        "version": "a080652cb08b18799a600822e6b5604d59e2ce84408f8509aa74a49d3a992676",
+        "signature": "a080652cb08b18799a600822e6b5604d59e2ce84408f8509aa74a49d3a992676"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts": {
+        "version": "cc0fca544c9ee63d754899e93ebae35c8ba8304a100126b9c3dadee2c91a2250",
+        "signature": "cc0fca544c9ee63d754899e93ebae35c8ba8304a100126b9c3dadee2c91a2250"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts": {
+        "version": "8b879d92487be3d7fda0ca6ca603edd2371025809af5253444136d7e5d7458a3",
+        "signature": "8b879d92487be3d7fda0ca6ca603edd2371025809af5253444136d7e5d7458a3"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts": {
+        "version": "69af5e5e6908d7756c6e1b13cbdfd74e1b9dbc18fe6c39710e62ed9dfb5d8322",
+        "signature": "69af5e5e6908d7756c6e1b13cbdfd74e1b9dbc18fe6c39710e62ed9dfb5d8322"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts": {
+        "version": "76805a0903e926ff5d5543f670365da9583cb5b3eb495bc7deceb2d94a956361",
+        "signature": "76805a0903e926ff5d5543f670365da9583cb5b3eb495bc7deceb2d94a956361"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/widget.d.ts": {
+        "version": "829abfa2722476bdd952e2edba0a34e3fedbd02d3163a61f9ec6b87b7305d600",
+        "signature": "829abfa2722476bdd952e2edba0a34e3fedbd02d3163a61f9ec6b87b7305d600"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/index.d.ts": {
+        "version": "45de58da1ded738bb56daae8ed7b1109147cbc89f02ebd51e636b980791f2cc2",
+        "signature": "45de58da1ded738bb56daae8ed7b1109147cbc89f02ebd51e636b980791f2cc2"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/headerfooter.d.ts": {
+        "version": "a7f49b2c938f5945950d485e45fa06029b20117a3b52ef35da1431a9f9b67ba7",
+        "signature": "a7f49b2c938f5945950d485e45fa06029b20117a3b52ef35da1431a9f9b67ba7"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts": {
+        "version": "98189a1965d81f3d2cffbef6684783e271184812135bf33d664abc72e25ec85b",
+        "signature": "98189a1965d81f3d2cffbef6684783e271184812135bf33d664abc72e25ec85b"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/model.d.ts": {
+        "version": "50e88e11ead9eb8f97fb72fc9cec5f66ebc9f907e7741478b8a85a3873040a2e",
+        "signature": "50e88e11ead9eb8f97fb72fc9cec5f66ebc9f907e7741478b8a85a3873040a2e"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/index.d.ts": {
+        "version": "2e3d9efe8440776d4af8bb25cef6d54a8a9f9d832b3ebc189bc027fc9e6460da",
+        "signature": "2e3d9efe8440776d4af8bb25cef6d54a8a9f9d832b3ebc189bc027fc9e6460da"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts": {
+        "version": "9506acd59814dbd1d1fa3319f83b859953253de5bf8b86b33dcbbbd8bfb05652",
+        "signature": "9506acd59814dbd1d1fa3319f83b859953253de5bf8b86b33dcbbbd8bfb05652"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/inputarea.d.ts": {
+        "version": "6ab66b6b7dd05e744dd90becdd5efa1a8551d6cbb5ae3dc931d224544acbc269",
+        "signature": "6ab66b6b7dd05e744dd90becdd5efa1a8551d6cbb5ae3dc931d224544acbc269"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/widget.d.ts": {
+        "version": "cea7d7a378a49c78d1c8223dc8a52028bae3e6766667350f70552c5421b36724",
+        "signature": "cea7d7a378a49c78d1c8223dc8a52028bae3e6766667350f70552c5421b36724"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/celldragutils.d.ts": {
+        "version": "f57ee04689130544343d2223259309507bec465480392ac08a4d5e10ebcaff5f",
+        "signature": "f57ee04689130544343d2223259309507bec465480392ac08a4d5e10ebcaff5f"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@types/react/index.d.ts": {
+        "version": "ca7fd0b19265fdc74c5ffdc43c0e30d69a246b300b45da34834d7f37bc52caef",
+        "signature": "ca7fd0b19265fdc74c5ffdc43c0e30d69a246b300b45da34834d7f37bc52caef"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/collapser.d.ts": {
+        "version": "9e5609229a1098d59c556ab11d8fef92f95988f556239ab134786dc047d9fab2",
+        "signature": "9e5609229a1098d59c556ab11d8fef92f95988f556239ab134786dc047d9fab2"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/placeholder.d.ts": {
+        "version": "e96809d56f15cf7dc87d423f24e8ddb3b39d75fc34ca2e43168ec1b12c7df35e",
+        "signature": "e96809d56f15cf7dc87d423f24e8ddb3b39d75fc34ca2e43168ec1b12c7df35e"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts": {
+        "version": "84a560d6656a6dab76637cc9fe5cceb86ea8461878804eeb974929431838b2b7",
+        "signature": "84a560d6656a6dab76637cc9fe5cceb86ea8461878804eeb974929431838b2b7"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts": {
+        "version": "a6726744901b67f4d45357e674de4c0c20eee486e1adbde98b0f798706c4c5de",
+        "signature": "a6726744901b67f4d45357e674de4c0c20eee486e1adbde98b0f798706c4c5de"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts": {
+        "version": "dbcc14407c558a2f8113e2c33de4afc9b74de5ddc017929e6f26e35673467697",
+        "signature": "dbcc14407c558a2f8113e2c33de4afc9b74de5ddc017929e6f26e35673467697"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts": {
+        "version": "133a8301f58c896c0bf8bbc755943a529a07aa5fb50e0b3b68e46a44a4d136a8",
+        "signature": "133a8301f58c896c0bf8bbc755943a529a07aa5fb50e0b3b68e46a44a4d136a8"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/actions.d.ts": {
+        "version": "966f590d996a513f5b9dd85fbd7c0efcb5f4a9e314c5bee8b16da9cd62aa5a62",
+        "signature": "966f590d996a513f5b9dd85fbd7c0efcb5f4a9e314c5bee8b16da9cd62aa5a62"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts": {
+        "version": "5f25e7c206ecf35ef36a8c2f2feb40f55a395033ed703ce9bbca697169cac80e",
+        "signature": "5f25e7c206ecf35ef36a8c2f2feb40f55a395033ed703ce9bbca697169cac80e"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/default-toolbar.d.ts": {
+        "version": "5d18403c11409d1da6d711444edf6defb68bce55bd063a3da3d1c50c63f683f8",
+        "signature": "5d18403c11409d1da6d711444edf6defb68bce55bd063a3da3d1c50c63f683f8"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modelfactory.d.ts": {
+        "version": "b11b402d3397a32857a46b3f6e63a652601a236870d789d4474c9446453c27bb",
+        "signature": "b11b402d3397a32857a46b3f6e63a652601a236870d789d4474c9446453c27bb"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts": {
+        "version": "8acfe0b302ef16cf9d0fa6b34430efe54ad84bc05d8e40dc88d9471ae294e5b0",
+        "signature": "8acfe0b302ef16cf9d0fa6b34430efe54ad84bc05d8e40dc88d9471ae294e5b0"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/notebooktools.d.ts": {
+        "version": "b225072aadc034eef733c39b7b4f926251071e11593311607ff593bad463dda3",
+        "signature": "b225072aadc034eef733c39b7b4f926251071e11593311607ff593bad463dda3"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tracker.d.ts": {
+        "version": "6fa3055e19ed548b95103c7a8d04195caab1b6e38592ae2467cef5b9b4c39cf1",
+        "signature": "6fa3055e19ed548b95103c7a8d04195caab1b6e38592ae2467cef5b9b4c39cf1"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widgetfactory.d.ts": {
+        "version": "25075a447a4223ed1e93835b49d7a1dfd81c5efd8cda854fd049cb908022f4d8",
+        "signature": "25075a447a4223ed1e93835b49d7a1dfd81c5efd8cda854fd049cb908022f4d8"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modestatus.d.ts": {
+        "version": "e22391737fca81ca3868f0bfda838f53e93526d5c25a7a7da131012ac5180872",
+        "signature": "e22391737fca81ca3868f0bfda838f53e93526d5c25a7a7da131012ac5180872"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts": {
+        "version": "9fbfd2d6bc54712949f8210584098c339514aeeeb1577639044741a8938f1220",
+        "signature": "9fbfd2d6bc54712949f8210584098c339514aeeeb1577639044741a8938f1220"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts": {
+        "version": "ff141b87b0eed0d137aae5046faa83b485a7e46e09fc78aa4ac5bda1e96bb6df",
+        "signature": "ff141b87b0eed0d137aae5046faa83b485a7e46e09fc78aa4ac5bda1e96bb6df"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts": {
+        "version": "aca6c5506e2023b46af62d650a80e2c3596b7d4d77e8ec82dd9345604230640f",
+        "signature": "aca6c5506e2023b46af62d650a80e2c3596b7d4d77e8ec82dd9345604230640f"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/typestyle.d.ts": {
+        "version": "4f2ba377a423a6350e26dafbf50338ca9dadc76e14bdf32bfa1340bdccf74038",
+        "signature": "4f2ba377a423a6350e26dafbf50338ca9dadc76e14bdf32bfa1340bdccf74038"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/utilities.d.ts": {
+        "version": "7f13c1d90725f179acdd9a76513ebd9597b68ae33cbbd3a8f24b482f80e4c454",
+        "signature": "7f13c1d90725f179acdd9a76513ebd9597b68ae33cbbd3a8f24b482f80e4c454"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/index.d.ts": {
+        "version": "19c36cf5f5046e07eaf957cc01255f4fe3446d54087354ad617cfec7e1d962a4",
+        "signature": "19c36cf5f5046e07eaf957cc01255f4fe3446d54087354ad617cfec7e1d962a4"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/activitybar-styles.ts": {
+        "version": "5fd933b840adc9e4de25a7a6ed8730d9d677a6861f49111940d8609e34cb663b",
+        "signature": "a0d12ebb47dce1638c1e3143a1a500d47d94d341826979cc4ab96294a96f19fc"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts": {
+        "version": "b5acc94814245dd6a0020371e6a5f5d27ace021f1badc26a103743e73ca2e8eb",
+        "signature": "94e9c132351e1e2d75b0fd1fbc4f52290bb679cda8bd6bf23acf577568c8657e"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx": {
+        "version": "8732c023148c04d0b5f8aa4afb042c19b0ec13110dc220f2ab50fe143ddd88d9",
+        "signature": "0519aad2448aa1a7589dff74f9fbfaf4ded8346e380741f1a8f920aa25da0a98"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx": {
+        "version": "be7b754148b756c742f97632aa4c0aebee44cf78e359827e7b9d5cc6e6c50f84",
+        "signature": "9ef5db8dfc3934c47995caeaadfd3e14341000bedddf3e3211affee94b52b78c"
+      },
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.tsx": {
+        "version": "61a51080339c71f0a89fcabb7bff92fafda24dcc274abfb5bc82b01b23cfc29b",
+        "signature": "f66c858fafa054b8c3f713651ab2df92703d6cdb919b6c949ae831643eac80ee"
       }
     },
     "options": {
@@ -739,7 +935,6 @@
       "composite": true,
       "declaration": true,
       "esModuleInterop": true,
-      "incremental": true,
       "jsx": 2,
       "module": 6,
       "moduleResolution": 2,
@@ -1563,11 +1758,404 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/status.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/tokens.d.ts"
       ],
-      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.ts": [
-        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts"
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/clientsession.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/clipboard.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/collapse.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/commandlinker.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/commandpalette.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/dialog.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/domutils.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/hoverbox.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/iframe.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/inputdialog.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/mainareawidget.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/printing.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/sanitizer.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/spinner.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/splash.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/styling.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/thememanager.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/tokens.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/toolbar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/vdom.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/widgettracker.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/windowresolver.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/dataconnector.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/markdowncodeblocks.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/nbformat.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/pageconfig.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/path.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/poll.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/ratelimiter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/restorablepool.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/statedb.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/text.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/time.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/url.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/array.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/chain.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/empty.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/filter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/find.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/iter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/map.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/range.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/reduce.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/repeat.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/retro.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/sort.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/stride.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/string.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/take.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/zip.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/editor.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/jsoneditor.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/widget.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/factory.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/mimetype.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/tokens.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/modeldb.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablelist.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablemap.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablestring.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/attachmentmodel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/factories.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/latex.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/mimemodel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/outputmodel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/registry.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/renderers.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/tokens.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/widgets.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/model.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/json.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/mime.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/promise.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/random.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/token.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/uuid.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/boxengine.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/boxlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/boxpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/commandpalette.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/contextmenu.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/docklayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/dockpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/focustracker.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/gridlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/layout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/menu.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/menubar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/scrollbar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/singletonlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/splitlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/splitpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/tabpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/title.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/config/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/contents/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/manager.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/session/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/setting/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/terminal/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/workspace/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/builder/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/widget.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/headerfooter.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/model.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/inputarea.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/widget.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/headerfooter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/inputarea.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/celldragutils.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/widget.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@types/react/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/csstype/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/prop-types/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@types/react/global.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/collapser.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/placeholder.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/celldragutils.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/collapser.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/headerfooter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/inputarea.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/placeholder.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/context.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/default.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/mimedocument.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/registry.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/actions.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/default-toolbar.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modelfactory.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/notebooktools.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/notebooktools.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tracker.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widgetfactory.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modestatus.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/actions.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/default-toolbar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modelfactory.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/notebooktools.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tracker.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widgetfactory.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modestatus.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/csstype/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/typestyle.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/utilities.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/typestyle.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/utilities.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/activitybar-styles.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/activitybar-styles.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.tsx": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx"
       ]
     },
     "exportedModulesMap": {
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/json.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/mime.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/promise.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/random.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/token.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/uuid.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/json.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/mime.d.ts",
@@ -1575,6 +2163,183 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/random.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/token.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/uuid.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/notebooktools.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/actions.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/default-toolbar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modelfactory.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/notebooktools.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tracker.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widgetfactory.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modestatus.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.tsx": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modestatus.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/notebooktools.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tracker.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widgetfactory.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/default-toolbar.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/actions.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/widget.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/headerfooter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/inputarea.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/celldragutils.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/collapser.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/headerfooter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/inputarea.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/placeholder.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modelfactory.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/celldragutils.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/widget.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/widget.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/model.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/inputarea.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/router.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/commands/lib/index.d.ts",
@@ -1593,9 +2358,6 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/shell.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/status.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/tokens.d.ts"
-      ],
-      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.ts": [
-        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/mimerenderers.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
@@ -1656,6 +2418,18 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/mimemodel.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/tokens.d.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/attachmentmodel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/factories.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/latex.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/mimemodel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/outputmodel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/registry.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/renderers.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/tokens.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/widgets.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/attachmentmodel.d.ts",
@@ -1668,12 +2442,36 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/tokens.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/widgets.d.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/model.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/model.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/model.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/mimedocument.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/default.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/registry.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/context.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/default.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/mimedocument.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/registry.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts": [
@@ -1743,6 +2541,14 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/factory.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/mimetype.d.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/editor.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/jsoneditor.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/widget.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/factory.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/mimetype.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/tokens.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/editor.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/codeeditor/lib/jsoneditor.d.ts",
@@ -1791,6 +2597,30 @@
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/windowresolver.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/clientsession.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/clipboard.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/collapse.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/commandlinker.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/commandpalette.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/dialog.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/domutils.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/hoverbox.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/iframe.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/inputdialog.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/mainareawidget.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/printing.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/sanitizer.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/spinner.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/splash.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/styling.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/thememanager.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/tokens.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/toolbar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/vdom.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/widgettracker.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/windowresolver.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/clientsession.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/clipboard.d.ts",
@@ -1814,6 +2644,14 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/vdom.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/widgettracker.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/windowresolver.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/placeholder.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/collapser.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/tokens.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
@@ -1852,6 +2690,32 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/virtualdom/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/widget.d.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/boxengine.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/boxlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/boxpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/commandpalette.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/contextmenu.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/docklayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/dockpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/focustracker.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/gridlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/layout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/menu.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/menubar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/panel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/panellayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/scrollbar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/singletonlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/splitlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/splitpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/stackedlayout.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/stackedpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/tabbar.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/tabpanel.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/title.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/boxengine.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/boxlayout.d.ts",
@@ -1877,6 +2741,9 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/tabpanel.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/title.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/widget.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/headerfooter.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/apputils/lib/spinner.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
@@ -1966,6 +2833,19 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/serverconnection.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/config/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/contents/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/kernel/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/manager.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/serverconnection.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/session/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/setting/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/terminal/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/workspace/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/nbconvert/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/builder/index.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/config/index.d.ts",
@@ -2076,6 +2956,24 @@
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/url.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/dataconnector.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/interfaces.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/markdowncodeblocks.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/nbformat.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/pageconfig.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/path.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/poll.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/ratelimiter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/restorablepool.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/settingregistry.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/statedb.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/text.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/time.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/tokens.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/url.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/activitymonitor.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/coreutils/lib/dataconnector.d.ts",
@@ -2157,6 +3055,14 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablemap.d.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/modeldb.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablelist.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablemap.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablestring.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/undoablelist.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/modeldb.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/observables/lib/observablejson.d.ts",
@@ -2189,6 +3095,24 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/array.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/chain.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/empty.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/filter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/find.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/iter.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/map.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/range.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/reduce.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/repeat.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/retro.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/sort.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/stride.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/string.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/take.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/zip.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/array.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/chain.d.ts",
@@ -2206,6 +3130,10 @@
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/string.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/take.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/zip.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/widgets/lib/singletonlayout.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts",
@@ -2371,6 +3299,28 @@
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/builder/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/services/lib/serverconnection.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/csstype/index.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/typestyle.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/utilities.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/activitybar-styles.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/utilities.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/typestyle.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts"
+      ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@types/react/index.d.ts": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/csstype/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/prop-types/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@types/react/global.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/csstype/index.d.ts",
@@ -2561,7 +3511,56 @@
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/mimerenderers.d.ts",
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/router.d.ts",
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts",
-      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.ts"
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/apputils/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/coreutils/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/algorithm/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/codeeditor/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/observables/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/disposable/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/signaling/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/rendermime/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/model.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/coreutils/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/messaging/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@phosphor/widgets/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/services/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/widget.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/outputarea/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/headerfooter.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/rendermime-interfaces/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/model.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/attachments/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/model.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/inputarea.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/widget.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/celldragutils.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@types/react/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/collapser.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/placeholder.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/cells/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/docregistry/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/model.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widget.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/actions.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/panel.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/default-toolbar.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modelfactory.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tokens.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/notebooktools.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/tracker.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/widgetfactory.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/modestatus.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/truststatus.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/types.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/typestyle.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/internal/utilities.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/index.d.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/activitybar-styles.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.tsx"
     ]
   },
   "version": "3.5.3"
