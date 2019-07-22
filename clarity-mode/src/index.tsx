@@ -179,7 +179,7 @@ function activate(
   notebookTracker: INotebookTracker,
   //panel: NotebookPanel
 ) {
-  console.log(31);
+  console.log(33);
   const activityTool = new ActivityTool(app, notebookTracker);
   cellTools.addItem({ tool: activityTool });
 }

@@ -9,15 +9,6 @@ import {
 } from '@jupyterlab/notebook';
 
 const ActivityBarStyleClasses = StyleClasses.ActivityBarStyleClasses;
-export function CreateInsertButton(props: any) {
-  return (
-    <button
-      className={ActivityBarStyleClasses.newCellButton}
-      onClick={(event) => {
-        NotebookActions.insertBelow(props.panelWidget.content);
-      }}>+</button>
-  );
-}
 
 export function CreateCell(props: any) {
   const [codeActive, setCodeActive] = useState(true);
@@ -35,51 +26,29 @@ export function CreateCell(props: any) {
   });
   return (
     <div className={ActivityBarStyleClasses.createCellContainer}>
-      {codeActive && (
-        <button
-          className={ActivityBarStyleClasses.newCellButtonActive}
-          onClick={() => {
-            setCodeActive(true);
-            setMdActive(false);
-          }}
-        >
-          Code
-        </button>
-      )}
-      {!codeActive && (
-        <button
-          className={ActivityBarStyleClasses.newCellButton}
-          onClick={() => {
-            setCodeActive(true);
-            setMdActive(false);
-          }}
-        >
-          Code
-        </button>
-      )}
-      {mdActive && (
-        <button
-          className={ActivityBarStyleClasses.newCellButtonActive}
-          onClick={() => {
-            setCodeActive(false);
-            setMdActive(true);
-          }}
-        >
-          Text
-        </button>
-      )}
-      {!mdActive && (
-        <button
-          className={ActivityBarStyleClasses.newCellButton}
-          onClick={() => {
-            setCodeActive(false);
-            setMdActive(true);
-          }}
-        >
-          Text
-        </button>
-      )}
-      <CreateInsertButton panelWidget={props.panelWidget} />
+      <button
+        className={codeActive ? ActivityBarStyleClasses.newCellButtonActive : ActivityBarStyleClasses.newCellButton}
+        onClick={() => {
+          setCodeActive(true);
+          setMdActive(false);
+        }}
+      >
+        Code
+      </button>
+      <button
+        className={mdActive ? ActivityBarStyleClasses.newCellButtonActive : ActivityBarStyleClasses.newCellButton}
+        onClick={() => {
+          setCodeActive(false);
+          setMdActive(true);
+        }}
+      >
+        Text
+      </button>
+      <button
+      className={ActivityBarStyleClasses.newCellButton}
+      onClick={(event) => { 
+        NotebookActions.insertBelow(props.panelWidget.content);
+      }}>+</button>
     </div>
   );
 }
