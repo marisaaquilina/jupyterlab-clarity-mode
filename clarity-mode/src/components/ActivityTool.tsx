@@ -2,7 +2,8 @@ import {
   NotebookTools,
   INotebookTracker,
   NotebookPanel,
-  NotebookActions
+  //NotebookActions,
+  //NotebookTracker
 } from '@jupyterlab/notebook';
 
 import { Message } from '@phosphor/messaging';
@@ -19,39 +20,45 @@ import { ReactWidget } from '@jupyterlab/apputils';
 
 import * as React from 'react';
 
-import StyleClasses from './styles';
+//import StyleClasses from './styles';
 
-const ActivityBarStyleClasses = StyleClasses.ActivityBarStyleClasses;
 
-export function CreateInsertButton(props: any) {
-  return (
-    <button
-      className={ActivityBarStyleClasses.newCellButton}
-      onClick={() => {
-        NotebookActions.insertBelow(props.panelWidget.content);
-      }}
-    >
-      +
-    </button>
-  );
-}
+
 
 class ActivityTool extends NotebookTools.Tool {
   readonly app: JupyterFrontEnd;
   constructor(
     app: JupyterFrontEnd,
-    notebookTracker: INotebookTracker,
-    panel: NotebookPanel
+    notebookTracker: INotebookTracker
   ) {
     super();
     this.app = app;
+    this.notebookTracker = notebookTracker;
     let layout = (this.layout = new PanelLayout());
+    layout;
     const cellWidget = ReactWidget.create(<CreateCell />);
     layout.addWidget(cellWidget);
-    const insertButtonWidget = ReactWidget.create(
-      <CreateInsertButton panelWidget={panel} />
-    );
-    layout.addWidget(insertButtonWidget);
+    //const insertButtonWidget = ReactWidget.create(
+    //<CreateInsertButton panelWidget={panel} />
+    //);
+    //layout.addWidget(insertButtonWidget);
+  }
+
+  protected onAfterAttach() {
+    this.notebookTracker.currentWidget.context.ready.then(() => {
+      let layout = this.layout as PanelLayout;
+      let count = layout.widgets.length;
+      console.log("Before");
+      for (let i = 0; i < count; i++) {
+        layout.widgets[0].dispose();
+      }
+      console.log("After");
+      const panel: NotebookPanel = this.notebookTracker.currentWidget;
+      panel;
+      const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} />);
+      layout.addWidget(cellWidget);
+      
+    });
   }
 
   protected onActiveCellChanged(msg: Message): void {
@@ -70,6 +77,7 @@ class ActivityTool extends NotebookTools.Tool {
       //markdownCell.inputArea.renderInput(widget);
     }
   }
+  private notebookTracker:INotebookTracker;
 }
 
 export default ActivityTool;

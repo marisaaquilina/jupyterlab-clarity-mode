@@ -4,9 +4,26 @@ import { useState, useEffect } from 'react';
 
 import StyleClasses from './styles';
 
-const ActivityBarStyleClasses = StyleClasses.ActivityBarStyleClasses;
+import {
+  NotebookActions
+} from '@jupyterlab/notebook';
 
-export function CreateCell() {
+const ActivityBarStyleClasses = StyleClasses.ActivityBarStyleClasses;
+export function CreateInsertButton(props: any) {
+  return (
+    <button
+      className={ActivityBarStyleClasses.newCellButton}
+      onClick={(event) => {
+        NotebookActions.insertBelow(props.panelWidget.content);
+      }}
+    >
+      +
+    </button>
+  );
+}
+
+
+export function CreateCell(props: any) {
   const [codeActive, setCodeActive] = useState(true);
   const [mdActive, setMdActive] = useState(false);
   useEffect(() => {
@@ -66,6 +83,8 @@ export function CreateCell() {
           Text
         </button>
       )}
+      <CreateInsertButton panelWidget={props.panelWidget} />
     </div>
+  
   );
 }
