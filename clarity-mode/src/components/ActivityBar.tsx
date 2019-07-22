@@ -15,13 +15,9 @@ export function CreateInsertButton(props: any) {
       className={ActivityBarStyleClasses.newCellButton}
       onClick={(event) => {
         NotebookActions.insertBelow(props.panelWidget.content);
-      }}
-    >
-      +
-    </button>
+      }}>+</button>
   );
 }
-
 
 export function CreateCell(props: any) {
   const [codeActive, setCodeActive] = useState(true);
@@ -85,6 +81,5 @@ export function CreateCell(props: any) {
       )}
       <CreateInsertButton panelWidget={props.panelWidget} />
     </div>
-  
   );
 }
