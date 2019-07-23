@@ -24,9 +24,7 @@ class ActivityTool extends NotebookTools.Tool {
     super();
     this.app = app;
     this.notebookTracker = notebookTracker;
-    let layout = (this.layout = new PanelLayout());
-    const cellWidget = ReactWidget.create(<CreateCell />);
-    layout.addWidget(cellWidget);
+    this.layout = new PanelLayout();
   }
 
   protected onAfterAttach() {
@@ -37,12 +35,20 @@ class ActivityTool extends NotebookTools.Tool {
         layout.widgets[0].dispose();
       }
       const panel: NotebookPanel = this.notebookTracker.currentWidget;
-      const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} />);
+      const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} activeCellType={this.notebookTools.activeCell} />);
       layout.addWidget(cellWidget);
     });
   }
 
   protected onActiveCellChanged(msg: Message): void {
+    let layout = this.layout as PanelLayout;
+    let count = layout.widgets.length;
+    for (let i = 0; i < count; i++) {
+      layout.widgets[0].dispose();
+    }
+    const panel: NotebookPanel = this.notebookTracker.currentWidget;
+    const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} activeCellType={this.notebookTools.activeCell}/>);
+    layout.addWidget(cellWidget);
     if (this.notebookTools.activeCell instanceof MarkdownCell) {
       console.log('The active cell is markdown.');
       const markdownCell = this.notebookTools.activeCell;
@@ -51,7 +57,7 @@ class ActivityTool extends NotebookTools.Tool {
       //markdownCell.inputArea.renderInput(widget);
     }
     if (this.notebookTools.activeCell instanceof CodeCell) {
-      console.log('The active cell is markdown.');
+      console.log('The active cell is code.');
       const codeCell = this.notebookTools.activeCell;
       codeCell;
       //const widget = new ProseMirrorEditor(markdownCell.model as MarkdownCellModel);

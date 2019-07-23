@@ -2,10 +2,12 @@ import * as React from 'react';
 
 import { useState } from 'react';
 
+import { MarkdownCell, CodeCell, } from '@jupyterlab/cells';
+
 import StyleClasses from './styles';
 
 import {
-  NotebookActions, INotebookTracker
+  NotebookActions, INotebookTracker,
 } from '@jupyterlab/notebook';
 import { JupyterFrontEnd } from '@jupyterlab/application';
 
@@ -41,6 +43,10 @@ export function CreateCell(props: any) {
         onClick={() => {
           setCodeActive(true);
           setMdActive(false);
+          if (props.activeCellType && props.activeCellType instanceof CodeCell) {
+            //NotebookActions.changeCellType(this._notebook, event.target.value as nbformat.CellType);
+            console.log('instanceof CodeCell')
+          }
         }}
       >
         Code
@@ -50,6 +56,10 @@ export function CreateCell(props: any) {
         onClick={() => {
           setCodeActive(false);
           setMdActive(true);
+          if (props.activeCellType && props.activeCellType instanceof MarkdownCell) {
+            //NotebookActions.changeCellType(this._notebook, event.target.value as nbformat.CellType);
+            console.log('instanceof MarkdownCell')
+          }
         }}
       >
         Text
