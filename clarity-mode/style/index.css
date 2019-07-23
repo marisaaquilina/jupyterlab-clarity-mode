@@ -1,0 +1,15 @@
+.jp-InputArea-editor {
+  padding: 8px;
+  background: #F2F2F2;
+  margin: 5px;
+  border: 1px solid #fff;
+}
+
+.jp-InputArea-editor:hover {
+  border: 1px solid #BDBDBD; 
+}
+.jp-Notebook.jp-mod-editMode .jp-Cell.jp-mod-active .jp-InputArea-editor {
+  border: 1px solid #fff;
+  box-shadow: 0px 0px 5px 0px rgba(237,237,237,1);
+  transition-duration: 0.1s;
+}

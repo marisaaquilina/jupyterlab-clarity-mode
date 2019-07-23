@@ -12,7 +12,7 @@ import { MarkdownCell, CodeCell } from '@jupyterlab/cells';
 
 import { JupyterFrontEnd } from '@jupyterlab/application';
 
-import { CreateCell } from './ActivityBar';
+import { CreateCell} from './ActivityBar';
 
 import { ReactWidget } from '@jupyterlab/apputils';
 

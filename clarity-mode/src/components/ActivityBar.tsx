@@ -1,30 +1,40 @@
 import * as React from 'react';
 
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 import StyleClasses from './styles';
 
 import {
-  NotebookActions
+  NotebookActions, INotebookTracker
 } from '@jupyterlab/notebook';
+import { JupyterFrontEnd } from '@jupyterlab/application';
 
 const ActivityBarStyleClasses = StyleClasses.ActivityBarStyleClasses;
+
+export function createRunCommand(app: JupyterFrontEnd, notebookTracker: INotebookTracker) {
+  // const shiftRunCommand = "rich-text:run-markdown-cell-and-advance";
+  // app.commands.addCommand(shiftRunCommand, {
+  //   execute: () => {
+  //     app.commands.execute("rich-text:run-markdown-cell")
+  //     app.commands.execute("notebook:run-cell-and-select-next");
+  //     // NotebookActions.run((nbTracker.currentWidget as NotebookPanel).content);
+  //     console.log(app.commands);
+  //   }
+  // });
+  
+  // app.commands.addKeyBinding({
+  //   command: shiftRunCommand,
+  //   keys: ["Shift Enter"],
+  //   selector: '.header'
+  // });
+  console.log(1);
+}
 
 export function CreateCell(props: any) {
   const [codeActive, setCodeActive] = useState(true);
   const [mdActive, setMdActive] = useState(false);
-  useEffect(() => {
-    // Update the document title using the browser API
-    const mdIsActive = mdActive;
-    const codeIsActive = codeActive;
-    if (mdIsActive) {
-      console.log('Markdown cell');
-    }
-    if (codeIsActive) {
-      console.log('Code cell');
-    }
-  });
   return (
+    
     <div className={ActivityBarStyleClasses.createCellContainer}>
       <button
         className={codeActive ? ActivityBarStyleClasses.newCellButtonActive : ActivityBarStyleClasses.newCellButton}
@@ -44,11 +54,16 @@ export function CreateCell(props: any) {
       >
         Text
       </button>
+      
       <button
       className={ActivityBarStyleClasses.newCellButton}
       onClick={(event) => { 
         NotebookActions.insertBelow(props.panelWidget.content);
-      }}>+</button>
+        if (mdActive) {
+          NotebookActions.changeCellType(props.panelWidget.content, 'markdown')
+        };
+      }
+      }>+</button>
     </div>
   );
 }

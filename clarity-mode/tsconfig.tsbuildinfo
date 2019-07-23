@@ -910,7 +910,7 @@
         "signature": "19c36cf5f5046e07eaf957cc01255f4fe3446d54087354ad617cfec7e1d962a4"
       },
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/activitybar-styles.ts": {
-        "version": "5fd933b840adc9e4de25a7a6ed8730d9d677a6861f49111940d8609e34cb663b",
+        "version": "ebbc4489aac3f03c524cb2504234f748fa0822173e0bcfaca2e267521939c67b",
         "signature": "a0d12ebb47dce1638c1e3143a1a500d47d94d341826979cc4ab96294a96f19fc"
       },
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts": {
@@ -918,15 +918,15 @@
         "signature": "94e9c132351e1e2d75b0fd1fbc4f52290bb679cda8bd6bf23acf577568c8657e"
       },
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx": {
-        "version": "a170977d12bb4d3affa6b0df48c6a68c519e6fa8667366afec8f742471807f5e",
-        "signature": "96fc870e19741cef2790e340b302e1b5d21b809777660206cab32f83d9464c49"
+        "version": "fbf0d28df796c5425cd3460156e05dd186608199b30d835e5067c6d9250b3ef9",
+        "signature": "36f61a7844c2d873d1a57c43eeed95c61633e6f874ce231c0bd0c37cd1844074"
       },
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx": {
-        "version": "8885b8b43abeb7127523093032f5c2f057888fe50a60d8f69afa03c8d561fce7",
+        "version": "01fd20c16043dde1b39356c13008f937a5f7d2d98b5153fd0371641891b28301",
         "signature": "65f2732e8449e2ba1583ba4c995de3291dbfc66e183e39e4c8d74f789882a19e"
       },
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.tsx": {
-        "version": "5de56818ccff9185a8480b9f3814622028aea3c3e9d27db119cf8563c8ad2c1b",
+        "version": "c6446e80b9662809209ed552dcdeec69b1a1730841f5f72222287124aa593d44",
         "signature": "e8b6612534b8de5761035dca4df0a4e3d57b44e8e4ec0fe5b4e490d8688b5749"
       },
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/commandedit.tsx": {
@@ -2133,7 +2133,8 @@
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@types/react/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts",
-        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts"
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts"
       ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
@@ -2148,6 +2149,7 @@
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.tsx": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx"
       ]
     },
@@ -3323,6 +3325,10 @@
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/activitybar-styles.ts"
       ],
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx": [
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts",
+        "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts"
+      ],
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx": [
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/@jupyterlab/application/lib/index.d.ts",
         "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/node_modules/@jupyterlab/notebook/lib/index.d.ts",
@@ -3562,10 +3568,10 @@
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/node_modules/typestyle/lib/index.d.ts",
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/activitybar-styles.ts",
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/styles/index.ts",
-      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/commandedit.tsx",
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitybar.tsx",
       "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/activitytool.tsx",
-      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.tsx"
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/index.tsx",
+      "/users/marisaaquilina/projects/clarity/jupyterlab-clarity-mode/clarity-mode/src/components/commandedit.tsx"
     ]
   },
   "version": "3.5.3"

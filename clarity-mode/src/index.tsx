@@ -8,6 +8,9 @@ import {
   //NotebookPanel
 } from '@jupyterlab/notebook';
 
+
+import { createRunCommand} from './components/ActivityBar';
+
 import ActivityTool from './components/ActivityTool';
 /** 
 // Status Bar
@@ -179,9 +182,11 @@ function activate(
   notebookTracker: INotebookTracker,
   //panel: NotebookPanel
 ) {
-  console.log(33);
+  console.log(35);
   const activityTool = new ActivityTool(app, notebookTracker);
   cellTools.addItem({ tool: activityTool });
+  createRunCommand(app, notebookTracker);
+
 }
 
 const clarityMode: JupyterFrontEndPlugin<void> = {

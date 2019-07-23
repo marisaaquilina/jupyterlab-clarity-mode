@@ -8,6 +8,7 @@ export namespace ActivityBarStyleClasses {
     padding: 4,
     margin: 2
   });
+  
   export const newCellButtonActive = style({
     backgroundColor: '#444',
     color: '#fff',
@@ -15,6 +16,7 @@ export namespace ActivityBarStyleClasses {
     padding: 4,
     margin: 2
   });
+  
   export const createCellContainer = style({
     backgroundColor: '#111',
     border: 'none',
