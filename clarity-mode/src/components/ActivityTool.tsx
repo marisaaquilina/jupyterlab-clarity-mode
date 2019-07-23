@@ -48,20 +48,12 @@ class ActivityTool extends NotebookTools.Tool {
     }
     const panel: NotebookPanel = this.notebookTracker.currentWidget;
     const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} activeCellType={this.notebookTools.activeCell}/>);
-    layout.addWidget(cellWidget);
+      layout.addWidget(cellWidget);
     if (this.notebookTools.activeCell instanceof MarkdownCell) {
       console.log('The active cell is markdown.');
-      const markdownCell = this.notebookTools.activeCell;
-      markdownCell;
-      //const widget = new ProseMirrorEditor(markdownCell.model as MarkdownCellModel);
-      //markdownCell.inputArea.renderInput(widget);
     }
     if (this.notebookTools.activeCell instanceof CodeCell) {
       console.log('The active cell is code.');
-      const codeCell = this.notebookTools.activeCell;
-      codeCell;
-      //const widget = new ProseMirrorEditor(markdownCell.model as MarkdownCellModel);
-      //markdownCell.inputArea.renderInput(widget);
     }
   }
   private notebookTracker:INotebookTracker;

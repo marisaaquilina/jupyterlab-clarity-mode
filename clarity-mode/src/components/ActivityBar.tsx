@@ -33,11 +33,23 @@ export function createRunCommand(app: JupyterFrontEnd, notebookTracker: INoteboo
 }
 
 export function CreateCell(props: any) {
-  const [codeActive, setCodeActive] = useState(true);
-  const [mdActive, setMdActive] = useState(false);
+  const [codeActive, setCodeActive] = useState(props.activeCellType instanceof CodeCell);
+  const [mdActive, setMdActive] = useState(props.activeCellType instanceof MarkdownCell);
   return (
-    
     <div className={ActivityBarStyleClasses.createCellContainer}>
+       <button
+        className={mdActive ? ActivityBarStyleClasses.newCellButtonActive : ActivityBarStyleClasses.newCellButton}
+        onClick={() => {
+          setCodeActive(false); 
+          setMdActive(true);
+          if (props.activeCellType && props.activeCellType instanceof MarkdownCell) {
+            //NotebookActions.changeCellType(this._notebook, event.target.value as nbformat.CellType);
+            console.log('instanceof MarkdownCell')
+          }
+        }}
+      >
+        Text
+      </button>
       <button
         className={codeActive ? ActivityBarStyleClasses.newCellButtonActive : ActivityBarStyleClasses.newCellButton}
         onClick={() => {
@@ -51,20 +63,6 @@ export function CreateCell(props: any) {
       >
         Code
       </button>
-      <button
-        className={mdActive ? ActivityBarStyleClasses.newCellButtonActive : ActivityBarStyleClasses.newCellButton}
-        onClick={() => {
-          setCodeActive(false);
-          setMdActive(true);
-          if (props.activeCellType && props.activeCellType instanceof MarkdownCell) {
-            //NotebookActions.changeCellType(this._notebook, event.target.value as nbformat.CellType);
-            console.log('instanceof MarkdownCell')
-          }
-        }}
-      >
-        Text
-      </button>
-      
       <button
       className={ActivityBarStyleClasses.newCellButton}
       onClick={(event) => { 
