@@ -25,6 +25,10 @@ class ActivityTool extends NotebookTools.Tool {
     this.app = app;
     this.notebookTracker = notebookTracker;
     this.layout = new PanelLayout();
+    //const panel: NotebookPanel = this.notebookTracker.currentWidget;
+    //const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} />);
+    //let layout = this.layout as PanelLayout;
+    //layout.addWidget(cellWidget);
   }
 
   protected onAfterAttach() {
@@ -35,7 +39,7 @@ class ActivityTool extends NotebookTools.Tool {
         layout.widgets[0].dispose();
       }
       const panel: NotebookPanel = this.notebookTracker.currentWidget;
-      const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} activeCellType={this.notebookTools.activeCell} />);
+      const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} />);
       layout.addWidget(cellWidget);
     });
   }
@@ -47,8 +51,8 @@ class ActivityTool extends NotebookTools.Tool {
       layout.widgets[0].dispose();
     }
     const panel: NotebookPanel = this.notebookTracker.currentWidget;
-    const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} activeCellType={this.notebookTools.activeCell}/>);
-      layout.addWidget(cellWidget);
+    const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} />);
+    layout.addWidget(cellWidget);
     if (this.notebookTools.activeCell instanceof MarkdownCell) {
       console.log('The active cell is markdown.');
     }

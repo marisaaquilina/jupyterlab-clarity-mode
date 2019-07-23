@@ -6,6 +6,8 @@ import { MarkdownCell, CodeCell, } from '@jupyterlab/cells';
 
 import StyleClasses from './styles';
 
+
+
 import {
   NotebookActions, INotebookTracker,
 } from '@jupyterlab/notebook';
@@ -33,8 +35,9 @@ export function createRunCommand(app: JupyterFrontEnd, notebookTracker: INoteboo
 }
 
 export function CreateCell(props: any) {
-  const [codeActive, setCodeActive] = useState(props.activeCellType instanceof CodeCell);
-  const [mdActive, setMdActive] = useState(props.activeCellType instanceof MarkdownCell);
+  const [codeActive, setCodeActive] = useState(true);
+  codeActive;
+  const [mdActive, setMdActive] = useState(false);
   return (
     <div className={ActivityBarStyleClasses.createCellContainer}>
        <button
@@ -72,6 +75,12 @@ export function CreateCell(props: any) {
         };
       }
       }>+</button>
+      {props.panelWidget.content.mode && <button
+      className={ActivityBarStyleClasses.newCellButton}
+      onClick={(event) => { 
+        NotebookActions.deleteCells(props.panelWidget.content);
+      }
+      }>-</button>}
     </div>
   );
 }
