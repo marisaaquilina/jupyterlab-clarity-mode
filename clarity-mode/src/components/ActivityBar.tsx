@@ -6,33 +6,12 @@ import { MarkdownCell, CodeCell, } from '@jupyterlab/cells';
 
 import StyleClasses from './styles';
 
-
-
 import {
-  NotebookActions, INotebookTracker,
+  NotebookActions, //INotebookTracker,
 } from '@jupyterlab/notebook';
-import { JupyterFrontEnd } from '@jupyterlab/application';
+//import { JupyterFrontEnd } from '@jupyterlab/application';
 
 const ActivityBarStyleClasses = StyleClasses.ActivityBarStyleClasses;
-
-export function createRunCommand(app: JupyterFrontEnd, notebookTracker: INotebookTracker) {
-  // const shiftRunCommand = "rich-text:run-markdown-cell-and-advance";
-  // app.commands.addCommand(shiftRunCommand, {
-  //   execute: () => {
-  //     app.commands.execute("rich-text:run-markdown-cell")
-  //     app.commands.execute("notebook:run-cell-and-select-next");
-  //     // NotebookActions.run((nbTracker.currentWidget as NotebookPanel).content);
-  //     console.log(app.commands);
-  //   }
-  // });
-  
-  // app.commands.addKeyBinding({
-  //   command: shiftRunCommand,
-  //   keys: ["Shift Enter"],
-  //   selector: '.header'
-  // });
-  console.log(1);
-}
 
 export function CreateCell(props: any) {
   const [codeActive, setCodeActive] = useState(true);
