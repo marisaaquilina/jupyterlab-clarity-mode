@@ -6,6 +6,8 @@ import { MarkdownCell, CodeCell, } from '@jupyterlab/cells';
 
 import StyleClasses from './styles';
 
+//import logo from '../../'
+
 import {
   NotebookActions, //INotebookTracker,
 } from '@jupyterlab/notebook';
@@ -60,6 +62,7 @@ export function CreateCell(props: any) {
         NotebookActions.deleteCells(props.panelWidget.content);
       }
       }>-</button>}
+      
     </div>
   );
 }

@@ -18,6 +18,8 @@ import { ReactWidget } from '@jupyterlab/apputils';
 
 import * as React from 'react';
 
+import logo from '../static/add-icon.svg';
+
 class ActivityTool extends NotebookTools.Tool {
   readonly app: JupyterFrontEnd;
   constructor(app: JupyterFrontEnd, notebookTracker: INotebookTracker) {

@@ -103,9 +103,8 @@ export namespace CommandEditStatus {
     /**
      * On a change to the notebook, update the mode.
      */
-    private _onChanged = (_notebook: Notebook) => {
+    protected _onChanged = (_notebook: Notebook) => {
       const oldMode = this._notebookMode;
-      console.log("Changed status");
       if (this._notebook) {
         this._notebookMode = _notebook.mode;
       } else {
