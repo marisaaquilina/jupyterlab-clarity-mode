@@ -6,7 +6,7 @@ import { MarkdownCell, CodeCell, } from '@jupyterlab/cells';
 
 import StyleClasses from './styles';
 
-//import logo from '../../'
+//import logo from '../../add-icon.svg';
 
 import {
   NotebookActions, //INotebookTracker,
@@ -47,6 +47,7 @@ export function CreateCell(props: any) {
       >
         Code
       </button>
+      <div className={ActivityBarStyleClasses.cellActions}>
       <button
       className={ActivityBarStyleClasses.newCellButton}
       onClick={(event) => { 
@@ -56,13 +57,13 @@ export function CreateCell(props: any) {
         };
       }
       }>+</button>
-      {props.panelWidget.content.mode && <button
+      <button
       className={ActivityBarStyleClasses.newCellButton}
       onClick={(event) => { 
         NotebookActions.deleteCells(props.panelWidget.content);
       }
-      }>-</button>}
-      
+      }>-</button>
+      </div>
     </div>
   );
 }

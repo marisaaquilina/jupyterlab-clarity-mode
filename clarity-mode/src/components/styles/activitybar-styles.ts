@@ -24,4 +24,9 @@ export namespace ActivityBarStyleClasses {
     margin: 10,
     borderRadius: 5
   });
+
+  export const cellActions = style({
+    float: 'right',
+    fontSize: 20,
+  });
 }

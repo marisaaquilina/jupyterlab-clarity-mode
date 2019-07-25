@@ -24,7 +24,7 @@ function activate(
 
   //panel: NotebookPanel
 ) {
-  console.log(1);
+  console.log(3);
   const activityTool = new ActivityTool(app, notebookTracker);
   cellTools.addItem({ tool: activityTool });
 

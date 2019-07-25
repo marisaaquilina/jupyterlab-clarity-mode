@@ -18,8 +18,6 @@ import { ReactWidget } from '@jupyterlab/apputils';
 
 import * as React from 'react';
 
-import logo from '../static/add-icon.svg';
-
 class ActivityTool extends NotebookTools.Tool {
   readonly app: JupyterFrontEnd;
   constructor(app: JupyterFrontEnd, notebookTracker: INotebookTracker) {
@@ -27,12 +25,7 @@ class ActivityTool extends NotebookTools.Tool {
     this.app = app;
     this.notebookTracker = notebookTracker;
     this.layout = new PanelLayout();
-    //const panel: NotebookPanel = this.notebookTracker.currentWidget;
-    //const cellWidget = ReactWidget.create(<CreateCell panelWidget={panel} />);
-    //let layout = this.layout as PanelLayout;
-    //layout.addWidget(cellWidget);
   }
-
   protected onAfterAttach() {
     this.notebookTracker.currentWidget.context.ready.then(() => {
       let layout = this.layout as PanelLayout;
